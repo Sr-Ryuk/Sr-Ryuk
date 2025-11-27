@@ -1,11 +1,6 @@
-
----
-
 # 💻 **Diogo Wallace — Dev & Analista de BI**
 
 Trabalho com **telemetria, BI, APIs, automações e desenvolvimento web/mobile**, criando soluções que realmente ajudam empresas a tomar decisões melhores. Hoje atuo do backend ao dashboard final, sempre buscando código limpo e eficiência.
-
----
 
 ## 🚀 **Stack Principal**
 
@@ -15,8 +10,6 @@ Trabalho com **telemetria, BI, APIs, automações e desenvolvimento web/mobile**
 **Automação:** n8n, Webhooks, APIs
 **BI:** Power BI, ETL, Telemetria
 
----
-
 ## 📊 **Projetos em Destaque**
 
 * **Darwin AI** – Chatbot para telemetria (Gemini + SQL Server + n8n)
@@ -24,23 +17,15 @@ Trabalho com **telemetria, BI, APIs, automações e desenvolvimento web/mobile**
 * **ANP Diesel** – ETL automatizado + análise de preços
 * **Dashboards Power BI** – Frota, consumo, jornada, financeiro etc.
 
----
-
 ## 🧠 **Interesses Atuais**
 
 IA aplicada, NL2SQL, mobile, arquiteturas limpas e análise de grandes volumes de dados.
-
----
 
 ## 📈 **Linguagens mais usadas**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-ryuk\&hide_progress=true)
 
----
-
 ## 🌐 **Contato**
 
 **GitHub:** [https://github.com/Sr-Ryuk](https://github.com/Sr-Ryuk)
 **Portfólio:** [https://codenational.com.br](https://codenational.com.br)
-
----
