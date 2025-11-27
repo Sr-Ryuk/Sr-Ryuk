@@ -23,7 +23,7 @@ IA aplicada, NL2SQL, mobile, arquiteturas limpas e desenvolvimento web.
 
 ## 📈 **Linguagens mais usadas**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-ryuk\&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-ryuk&hide_progress=true&theme=dracula)
 
 ## 🌐 **Contato**
 
