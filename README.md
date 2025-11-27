@@ -1,42 +1,34 @@
 
+---
+
+# 💻 **Diogo Wallace — Dev & Analista de BI**
+
+Trabalho com **telemetria, BI, APIs, automações e desenvolvimento web/mobile**, criando soluções que realmente ajudam empresas a tomar decisões melhores. Hoje atuo do backend ao dashboard final, sempre buscando código limpo e eficiência.
 
 ---
 
-# 💻 **Diogo Wallace – Desenvolvedor & Analista de BI**
+## 🚀 **Stack Principal**
 
-Sou apaixonado por tecnologia, dados e tudo que envolve transformar caos em soluções inteligentes. Trabalho diariamente com **telemetria, BI, APIs, automações e desenvolvimento web/mobile**, criando sistemas que realmente ajudam empresas a tomarem decisões melhores.
-
-Desenvolvo produtos completos — desde o backend até dashboards avançados no Power BI.
-
----
-
-## 🚀 **Tecnologias que domino**
-
-* **Backend:** PHP (Laravel, CodeIgniter), Node.js, SQL Server, MySQL
-* **Frontend:** HTML, CSS, JavaScript, Bootstrap, Angular
-* **Mobile:** Flutter / Dart
-* **Cloud & Deploy:** GitHub Actions, Hostinger, Docker (básico)
-* **Automação:** n8n, Webhooks, Integrações com APIs
-* **BI:** Power BI, ETL, Dashboards, Telemetria
+**Backend:** PHP (Laravel, CodeIgniter), Node.js, SQL Server, MySQL
+**Frontend:** HTML, CSS, JS, Bootstrap, Angular
+**Mobile:** Flutter / Dart
+**Automação:** n8n, Webhooks, APIs
+**BI:** Power BI, ETL, Telemetria
 
 ---
 
-## 📊 **Principais Projetos**
+## 📊 **Projetos em Destaque**
 
-* **Darwin AI** – Chatbot inteligente para telemetria (Gemini + SQL Server + n8n)
-* **Sistema de Clínica de Pilates** – Backend estruturado em Laravel com controle de usuários, planos, aulas e financeiro
-* **Análise de Diesel ANP** – APIs e scripts automáticos para ETL e consolidação mensal
-* **Dashboards Power BI** – Combustível, Frota, Consumo, Jornada, Financeiro etc.
+* **Darwin AI** – Chatbot para telemetria (Gemini + SQL Server + n8n)
+* **Clínica Pilates** – Sistema completo em Laravel
+* **ANP Diesel** – ETL automatizado + análise de preços
+* **Dashboards Power BI** – Frota, consumo, jornada, financeiro etc.
 
 ---
 
 ## 🧠 **Interesses Atuais**
 
-* IA aplicada a sistemas reais
-* NL2SQL (Conversão de linguagem natural para consultas)
-* Desenvolvimento mobile
-* Arquitetura limpa e APIs robustas
-* Telemetria e Big Data
+IA aplicada, NL2SQL, mobile, arquiteturas limpas e análise de grandes volumes de dados.
 
 ---
 
@@ -46,17 +38,9 @@ Desenvolvo produtos completos — desde o backend até dashboards avançados no 
 
 ---
 
-## 🌐 **Onde me encontrar**
+## 🌐 **Contato**
 
-* **GitHub:** [https://github.com/Sr-Ryuk](https://github.com/Sr-Ryuk)
-* **Portfólio:** [https://codenational.com.br](codenational)
-
----
-
-## ✨ **Sobre mim**
-
-Gosto de escrever código limpo, criar soluções inteligentes e aprender algo novo todos os dias. A tecnologia me abriu portas — agora quero abrir caminhos com ela.
-
-Se quiser montar projetos comigo, bora conversar!
+**GitHub:** [https://github.com/Sr-Ryuk](https://github.com/Sr-Ryuk)
+**Portfólio:** [https://codenational.com.br](https://codenational.com.br)
 
 ---
