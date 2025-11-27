@@ -19,7 +19,7 @@ Trabalho com **telemetria, BI, APIs, automações e desenvolvimento web/mobile**
 
 ## 🧠 **Interesses Atuais**
 
-IA aplicada, NL2SQL, mobile, arquiteturas limpas e análise de grandes volumes de dados.
+IA aplicada, NL2SQL, mobile, arquiteturas limpas e desenvolvimento web.
 
 ## 📈 **Linguagens mais usadas**
 
