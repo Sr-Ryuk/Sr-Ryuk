@@ -28,4 +28,3 @@ IA aplicada, NL2SQL, mobile, arquiteturas limpas e desenvolvimento web.
 ## **Contato**
 
 **GitHub:** [https://github.com/Sr-Ryuk](https://github.com/Sr-Ryuk)
-**Portfólio:** [https://codenational.com.br](https://codenational.com.br)
