@@ -1,6 +1,6 @@
 # **Diogo Wallace — Dev & Analista de BI**
 
-Trabalho com **telemetria, BI, APIs, automações e desenvolvimento web/mobile**, criando soluções que realmente ajudam empresas a tomar decisões melhores. Hoje atuo do backend ao dashboard final, sempre buscando código limpo e eficiência.
+Trabalho com **telemetria, BI, APIs, automações e desenvolvimento web/mobile**, criando soluções que realmente ajudam empresas a tomar decisões melhores. Hoje atuo do backend ao dashboard final.
 
 ## **Stack Principal**
 
