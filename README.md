@@ -5,7 +5,7 @@ Trabalho com **telemetria, BI, APIs, automações e desenvolvimento web/mobile**
 ## **Stack Principal**
 
 **Backend:** PHP (Laravel, CodeIgniter), Node.js, SQL Server, MySQL
-**Frontend:** HTML, CSS, JS, Bootstrap, Angular
+**Frontend:** HTML, CSS, JS, Bootstrap
 **Mobile:** Flutter / Dart
 **Automação:** n8n, Webhooks, APIs
 **BI:** Power BI, ETL, Telemetria
